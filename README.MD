@@ -3,6 +3,7 @@ Setup Typescript
 ![Badge](https://img.shields.io/badge/node%20version-14.15.1-green)
 ![Badge](https://img.shields.io/badge/npm%20version-6.14.8-red)
 ![Badge](https://img.shields.io/badge/yarn%20version-1.22.5-blue)
+[![GitHub license](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/PedroUNB/Typescript_Setup/blob/main/LICENSE)
 
 Esse é um setup básico para a construção de uma API com typescript, com o babel,
 eslint, typescript paths e jest configurados.

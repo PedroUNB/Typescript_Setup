@@ -3,7 +3,7 @@ import '@controllers/UsersController'
 const app = express()
 
 app.get('/', (req, res) => {
-  return res.send('hello 2')
+  return res.json({ message: 'Hello World' })
 })
 
 app.listen(3000)

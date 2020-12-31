@@ -1,5 +1,6 @@
 Setup Typescript
 =================
+![Badge](https://github.com/PedroUNB/Typescript_Setup/workflows/Node.js%20CI/badge.svg)
 ![Badge](https://img.shields.io/badge/node%20version-14.15.1-green)
 ![Badge](https://img.shields.io/badge/npm%20version-6.14.8-red)
 ![Badge](https://img.shields.io/badge/yarn%20version-1.22.5-blue)

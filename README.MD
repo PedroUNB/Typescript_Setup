@@ -100,7 +100,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 Feito com ❤️ por Pedro Oliveira 👋🏽 Entre em contato!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PedroUNB)](https://github.com/PedroUNB)
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-2686a5187/)](https://www.linkedin.com/in/pedro-henrique-dev/)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-2686a5187/)](https://www.linkedin.com/in/pedro-oliveira-dev/)
 [![Gmail Badge](https://img.shields.io/badge/-pedro.oliveira.unb@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedro.oliveira.unb@gmail.com)](mailto:pedro.oliveira.unb@gmail.com)
 
 ### Quem sou eu?
